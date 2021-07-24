@@ -3,8 +3,7 @@ A console based shopping program.
 
 ## Features
 
-   A menu driven grocery shopping program.
-   
+   A menu driven grocery shopping program.\
    Includes signup and login features.
    Inbuilt wallet for deposit and withdrawal options.
    Provides you with an item list with different products and prices.
